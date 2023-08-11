@@ -1,8 +1,12 @@
-# Nexter Project
-
-![Nexter Project Banner](https://github.com/kutaysahindev/Nexter/assets/79334889/a0cf9fb6-3e59-4a4c-888f-04bfd767f506)
+# Nexter
 
 Welcome to the Nexter project! This project serves as a demonstration of my proficiency in HTML, Sass, and CSS by creating an interactive and visually appealing real estate website.
+
+## Live Demo
+<a href="https://kutaysahindev.github.io/Nexter/" target="_blank"><strong>View Demo »</strong></a>
+
+## Preview
+![Nexter Project Banner](https://github.com/kutaysahindev/Nexter/assets/79334889/a0cf9fb6-3e59-4a4c-888f-04bfd767f506)
 
 ## Table of Contents
 
